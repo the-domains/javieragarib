@@ -1,0 +1,28 @@
+name: javieragarib
+favicon: null
+layout_spectrum: 0.9906731594819576
+typography_spectrum: 0.8777043097652495
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.21806586091406643
+  lightness: 0.9237623510416597
+  saturation: 0.30551027110777795
+  rhythmicContrast: 0.35091468458995223
+purpose: []
