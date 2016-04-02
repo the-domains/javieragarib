@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[javieragarib]]></title>
         <description><![CDATA[javieragarib]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/javieragarib/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 20:08:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 20:28:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/javieragarib/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Diseño y Comunicación Visual</p>]]></description>
-            <link>undefineda1a4df04-83c0-4284-aa06-1a819fa3cf3b/index.html</link>
+            <link>https://thegrid.ai/javieragarib/a1a4df04-83c0-4284-aa06-1a819fa3cf3b/index.html</link>
             <guid isPermaLink="false">a1a4df04-83c0-4284-aa06-1a819fa3cf3b</guid>
-            <pubDate>Sat, 02 Apr 2016 20:08:01 GMT</pubDate>
+            <pubDate>Sat, 02 Apr 2016 20:28:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
